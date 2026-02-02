@@ -14,6 +14,7 @@
 6.  **Spurious Copper** (Лишняя медь/пятна)
 
 Если дефект найден, на видео рисуется цветная рамка, а в Serial-порт выводится название класса и уверенность модели (Confidence).
+Ссылка на датасет: https://www.kaggle.com/datasets/akhatova/pcb-defects
 
 ### Железо и Софт
 *   **Плата:** AI-Thinker ESP32-CAM.
